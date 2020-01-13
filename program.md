@@ -31,7 +31,7 @@ The workshop will be a full day event from 9:00 am - 6:15 pm. The tentative sche
         </tr>
         <tr>
           <td class="time">11:00 - 11:35</td>
-          <td colspan="4" rowspan="1" class="invited">Invited: Aisha Walcott Bryant (IBM, Research Scientist, Kenya, confirmed)</td>
+          <td colspan="4" rowspan="1" class="invited">Invited: Aisha Walcott Bryant (IBM, Research Scientist, Kenya)</td>
         </tr>
         <tr>
             <td class="time">11:35 - 11:50</td>
