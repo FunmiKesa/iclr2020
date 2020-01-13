@@ -9,9 +9,9 @@ body { color: #2e2d2d; }
 
 .centermiddle { margin: auto; max-width: 950px; padding: 0px 20px 0px 20px; color: #2e2d2d; }
 
-.maintopic { display: inline-block; text-transform: uppercase; padding: 25px 0px 3px 0px; font-size: 2.5em; font-weight: bold; }
+.maintopic { display: inline-block; text-transform: uppercase; padding: 0px 0px 3px 0px; font-size: 2.5em; font-weight: bold; }
 
-.subtopic { padding: 5px 0px 0px 0px; font-size: 1.3em; text-shadow: 1px 1px #50505081; }
+.subtopic { padding: 20px 0px 0px 0px; font-size: 1.3em; text-shadow: 1px 1px #50505015; }
 
 .border { border: 2px solid black; }
 
@@ -29,9 +29,31 @@ body { color: #2e2d2d; }
 
 .headshotname { margin: 5px 0px 0px 0px; }
 
-.headshotaffiliation { color: #1C8BE2; cursor: text; }
+.headshotaffiliation { color: #1C8BE2; }
 
-.headshotaffiliation:hover { text-decoration: none; }
+table { width: 100%; max-width: 50rem; color: #fff; }
+
+table th { color: #000; }
+
+table th, table td { padding: 0.5rem 1rem; }
+
+table th { font-weight: normal; }
+
+table td { font-size: 1rem; font-weight: bold; line-height: 1.4; border-radius: 0.2rem; transition: opacity 0.3s ease; }
+
+table td > span { font-size: 0.8em; font-weight: normal; display: block; width: 100%; }
+
+.contributed-talk { background-color: #9750a1; }
+
+.welcome-remarks { background-color: #6778d0; }
+
+.panel { background-color: #ba496b; }
+
+.awards { background-color: #ba6337; }
+
+.break { background-color: #50b47b; }
+
+.invited { background-color: #98a441; }
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
