@@ -141,7 +141,11 @@ table td > span {
     background-color: #365F80;
 }
 .invited {
-      background-color: #6BBFFF;
+    background-color: #6BBFFF;
+}
+.time {
+    background-color: rgb(255, 255, 255);
+    color: #000;
 }
 
 @import "{{ site.theme }}";
